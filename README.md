@@ -2,9 +2,6 @@
 Implemataion of Best-First Seach + Iterative DFS
 #Homework 1 - Heuristic Search
 
-The PDF for the assignment can found in docs/AI_HW1.pdf
-
-Library documentation can be found in ways/README.md
 
 ##Directory Structure
 
